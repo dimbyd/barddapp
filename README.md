@@ -1,0 +1,2 @@
+# barddapp
+Gweinydd meddalwedd cynganeddol
